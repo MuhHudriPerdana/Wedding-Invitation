@@ -1,5 +1,4 @@
 .simply-countdown {
-<<<<<<< HEAD
   overflow: hidden;
   display: table;
   margin: auto;
@@ -25,7 +24,6 @@
 
 .simply-countdown > .simply-section .simply-amount {
   font-size: 1.6rem;
-=======
 	overflow: hidden;
 	display: table;
 	margin: auto;
@@ -51,5 +49,4 @@
 
 .simply-countdown > .simply-section .simply-amount {
 	font-size: 1.6rem;
->>>>>>> 6ec89f4 (Initial commit)
 }
